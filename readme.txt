@@ -5,3 +5,5 @@ forth lines
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 My stupid boss still prefers SVN.
+
+new branch
