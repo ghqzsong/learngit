@@ -9,3 +9,5 @@ My stupid boss still prefers SVN.
 new branch
 i am master
 feature1111
+
+no-diff
